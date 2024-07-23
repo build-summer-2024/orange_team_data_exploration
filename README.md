@@ -20,4 +20,7 @@ Roberto Echeverria
 - [x] Create a bar graph of the top 5 items sold.
 - [ ] Create a pie chart showing the number of times each of the top 10 items were ordered.
 - [ ] Create a line graph showing how much money was spent on the top 10 items ordered.
+
+--- Stretch Goals ---
+
 - [ ] Your team can come up with its own custom question to answer and visualize!
