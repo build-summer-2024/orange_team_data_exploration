@@ -8,8 +8,6 @@ Roberto Echeverria
 
 ## Progress
 
-# Data Analysis Checklist
-
 - [x] Use the appropriate pandas methods to get the info on the data and describe it.
 - [x] List the column names in the dataset.
 - [x] What is the most ordered item? How many exactly were ordered?
